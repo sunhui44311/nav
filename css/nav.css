@@ -31,7 +31,6 @@ body {
 			.nav>ul li:hover ul li {
 				display: block;
 			}
-			
 			.nav>ul>li>ul li {
 				padding: 10px 0;
 				background-color: #fff;
